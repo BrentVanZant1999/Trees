@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "7d4e7dd3-4081-4dee-8de6-e340248244ab",
+            "Value": {
+                "id": "611fa1f2-bdc0-450b-9899-849045ac81fe",
+                "resourcePath": "scripts\\scrCreateNodeAt\\scrCreateNodeAt.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "8334f962-9e16-4242-b52c-6be5c68a4ccf",
             "Value": {
                 "id": "05d2d964-eb7b-4b11-85af-febbd2ec6a92",
@@ -172,6 +180,14 @@
                 "id": "8c765e0c-85a1-411c-b7ae-a2589fe3ad01",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "9187cf65-4924-4b4e-988a-b34f6b2ae285",
+            "Value": {
+                "id": "46130ebf-03f5-4ced-9632-1611c8b94f7e",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -231,14 +247,6 @@
             }
         },
         {
-            "Key": "cf8ed332-8693-4c25-ae67-c13ac938eff7",
-            "Value": {
-                "id": "2488a98f-c78a-438c-96a8-0d2827db8c47",
-                "resourcePath": "scripts\\scrCreateNode\\scrCreateNode.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "e2376b32-3df7-4740-809e-3d76fbd416bd",
             "Value": {
                 "id": "d6d45c8a-1bdb-4a04-8dbf-7a90fa999576",
@@ -280,9 +288,9 @@
         }
     ],
     "script_order": [
-        "cf8ed332-8693-4c25-ae67-c13ac938eff7",
         "20b99549-5b8b-4615-8508-0bf5ce3d7d6f",
-        "ed340306-ef5b-410c-8155-0111225dd300"
+        "ed340306-ef5b-410c-8155-0111225dd300",
+        "7d4e7dd3-4081-4dee-8de6-e340248244ab"
     ],
     "tutorial": ""
 }

@@ -7,4 +7,8 @@ colorOn = make_color_rgb(247,108,108);
 colorOff = make_color_rgb(168,208,230);
 
 unitLength = 0;
+sideLength = 0;
 isPC = 1; 
+
+screenWidth = 0;
+screenHeight = 0;

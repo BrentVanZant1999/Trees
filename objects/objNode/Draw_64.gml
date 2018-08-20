@@ -1,0 +1,1 @@
+global.Left = virtual_key_add(x-(objData.unitLength/2), y-(objData.unitLength/2), x+(objData.unitLength/2), y+(objData.unitLength/2), vk_left);
